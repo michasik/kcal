@@ -18,7 +18,7 @@
     </div>
     <hr>
     <div class="input-wrapper">
-      <label>Left:</label>
+      <label>Pozostało:</label>
       <h4>{{ leftKcal }}</h4>
     </div>
   </div>
